@@ -1,10 +1,14 @@
 {
-    "cycle": {
-        "streak": 0,
-        "done_today": false
-    },
-    "football": {
-        "streak": 0,
-        "done_today": false
-    }
+ "cycle": {
+  "streak": 0,
+  "done_today": false
+ },
+ "football": {
+  "streak": 1,
+  "done_today": true
+ },
+ "FF": {
+  "streak": 0,
+  "done_today": false
+ }
 }
